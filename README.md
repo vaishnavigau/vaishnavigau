@@ -1,56 +1,17 @@
-# 🧿
-<h1 align="centre">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋&center=true&size=30">
-  </a>
-</h1>
-
-
-<p align="center">:round_pushpin: Profile views</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/vaishnavigau/count.svg">
-</div>
-
-## 💮 Additional Insight into My Profile
-<p>🧠 I'm currently learning Machine Learning and Deep Learning.</p>
-<p>👩‍💻 Working on App Development</p>
-<p>📫 How to reach me? vaishnavigautam.2401@gmail.com</p>
-
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=Python&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=SQL&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/C++-%2338B2AC.svg?style=for-the-badge&logo=C++&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">yo! I'm Vaishnavi Gautam</h1>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 
 
-## 📊 Github Status
+- 🔭 I’m currently working on **Custom Operating System**
 
-<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vaishnavigau&theme=radical&title_color=ff3068?"></a>
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigau&hide_progress=true&theme=radical)
+- 💬 Ask me about **C++ , DBMS**
 
-## 🏆 GitHub Trophies
+- 📫 How to reach me **Viga.vg24@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavigau&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+- ⚡ Fun fact **I am Sarcastic pretty much all the time**
 
 
-## 🔥 My Progress
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vaishnavigau&theme=highcontrast)](https://git.io/streak-stats)
-
-
- <br>
- <br>
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaishnavigau&theme=bear" width=750  alt="stats graph"/>
-
-</div>
-<br>
