@@ -4,7 +4,6 @@
 
 
 
-- 🔭 I’m currently working on **Custom Operating System**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
@@ -12,6 +11,5 @@
 
 - 📫 How to reach me **Viga.vg24@gmail.com**
 
-- ⚡ Fun fact **I am Sarcastic pretty much all the time**
 
 
