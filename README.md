@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently learning **OpenENV**
 
-- 💬 Ask me about **C++ , DBMS**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **Viga.vg24@gmail.com**
 
